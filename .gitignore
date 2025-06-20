@@ -1,6 +1,10 @@
 # Hugo ignores
 # https://gohugo.io/getting-started/directory-structure/
 
+# Hugo's generated publish directory.
+# By default this is "public/" but can be changed in config.
+# Learn more: https://gohugo.io/getting-started/configuration/#configure-build-options
+/public/
 
 # Hugo's cache directory.
 .hugo_build.lock

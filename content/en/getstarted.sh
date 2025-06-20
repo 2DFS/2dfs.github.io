@@ -1,1 +1,0 @@
-curl -sfL 2dfs.github.io/install-tdfs.sh | sh - 
