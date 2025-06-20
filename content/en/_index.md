@@ -7,7 +7,7 @@ title: Goldydocs
 <img src="https://github.com/2DFS/.github/blob/main/profile/logo.png?raw=true"
      alt="2DFS logo"
      class="img-fluid d-block mx-auto mb-3"
-     style="max-width: 500px;">
+     style="max-width: 15em;">
 ### A two-dimensional filesystem build and distribution framework for containers.
 
 <a class="btn btn-lg btn-primary me-3 mb-4" href="/docs/">
@@ -25,7 +25,7 @@ title: Goldydocs
 
 Install the TDFS CLI builder with a single command:
 <div class="row d-flex justify-content-center">
-<div class="input-group" style="max-width:600px; min-width:600px">
+<div class="input-group" style="max-width:29em; min-width:10em;">
   <span class="input-group-text" style="font-size: 0.9rem;" id="addon-wrapping">Get Started</span>
   <span class="form-control"  style="font-size: 0.9rem; background:black; color:green; font-family: monospace;">curl -sfL 2dfs.github.io/install-tdfs.sh | sh - </span>
 </div>
