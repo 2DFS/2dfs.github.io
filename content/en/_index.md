@@ -64,3 +64,16 @@ We do a [Pull Request](https://github.com/google/docsy-example/pulls) contributi
 
 
 {{% /blocks/section %}}
+
+
+
+<br>
+
+
+<div style="text-size: 0.8rem; text-align: center;">
+Acknowledgements: <br>
+<a href="https://www.vecteezy.com/members/102360471775858224755" > Sumara Zubair </a>: Background Picture | 
+<a href="https://www.docsy.dev/" > Docksy </a>: Website Theme
+</div>
+
+<br>
