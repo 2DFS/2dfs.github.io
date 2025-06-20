@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Goldydocs on 2DFS</title>
+    <link>https://example.docsy.dev/</link>
+    <description>Recent content in Goldydocs on 2DFS</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 01 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://example.docsy.dev/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>TDFS Builder v0.0.102 Release is out</title>
+      <link>https://example.docsy.dev/blog/2025/06/01/tdfs-builder-v0.0.102-release-is-out/</link>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.docsy.dev/blog/2025/06/01/tdfs-builder-v0.0.102-release-is-out/</guid>
+      <description>&lt;h3 id=&#34;tdfs-builder-reaches-its-first-alpha-release-&#34;&gt;TDFS Builder reaches its First Alpha Release 🎉🎉&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#tdfs-builder-reaches-its-first-alpha-release-&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&#xA;&lt;p&gt;TDFS is the command line interface that allows you to build and manage 2DFS images.&lt;/p&gt;&#xA;&lt;p&gt;Please find out more about TDFS in the &lt;a href=&#34;https://github.com/2DFS/2dfs-builder&#34;&gt;TDFS builder&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Example Page</title>
+      <link>https://example.docsy.dev/docs/getting-started/example-page/</link>
+      <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://example.docsy.dev/docs/getting-started/example-page/</guid>
+      <description>&lt;div class=&#34;pageinfo pageinfo-primary&#34;&gt;&#xA;&lt;p&gt;This is a placeholder page. Replace it with your own content.&lt;/p&gt;&#xA;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;p&gt;Text can be &lt;strong&gt;bold&lt;/strong&gt;, &lt;em&gt;italic&lt;/em&gt;, or &lt;del&gt;strikethrough&lt;/del&gt;. &lt;a href=&#34;https://gohugo.io&#34;&gt;Links&lt;/a&gt; should be blue with no underlines (unless hovered over).&lt;/p&gt;&#xA;&lt;p&gt;There should be whitespace between paragraphs. Vape migas chillwave sriracha poutine try-hard distillery. Tattooed shabby chic small batch, pabst art party heirloom letterpress air plant pop-up. Sustainable chia skateboard art party banjo cardigan normcore affogato vexillologist quinoa meggings man bun master cleanse shoreditch readymade. Yuccie prism four dollar toast tbh cardigan iPhone, tumblr listicle live-edge VHS. Pug lyft normcore hot chicken biodiesel, actually keffiyeh thundercats photo booth pour-over twee fam food truck microdosing banh mi. Vice activated charcoal raclette unicorn live-edge post-ironic. Heirloom vexillologist coloring book, beard deep v letterpress echo park humblebrag tilde.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Search Results</title>
+      <link>https://example.docsy.dev/search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.docsy.dev/search/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

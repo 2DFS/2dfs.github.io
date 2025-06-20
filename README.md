@@ -1,2 +1,10 @@
-# 2dfs.github.io
-2dfs website
+# Build Website 
+
+```
+hugo build
+```
+# Serve Website
+
+```
+hugo serve
+```

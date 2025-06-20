@@ -1,0 +1,39 @@
+# Hugo ignores
+# https://gohugo.io/getting-started/directory-structure/
+
+
+# Hugo's cache directory.
+.hugo_build.lock
+/resources/_gen/
+/resources/_cache/
+
+# Hugo's data directory.
+# This can be used for various purposes including search indexes or
+# other generated data that shouldn't be version controlled.
+# If you have specific data files you *do* want to track,
+# you'll need to explicitly re-include them.
+# For example:
+# !/data/my_important_data.json
+/data/
+
+# Generated image processing files.
+# If you use Hugo's image processing, these are generated dynamically.
+/static/images/processed/
+/static/img/processed/
+
+# Node.js modules (if using npm for front-end assets)
+/node_modules/
+
+# Dotenv files
+.env
+.env.*
+
+# Local development files
+.DS_Store # macOS specific
+.vscode/ # VS Code settings
+*.sublime-project # Sublime Text projects
+*.sublime-workspace # Sublime Text workspaces
+
+# Other common ignores
+*.log
+.idea/ # IntelliJ/WebStorm specific
