@@ -59,7 +59,7 @@ TDFS build utility adds your static data to the image up to 75x faster than Dock
 
 
 {{% blocks/feature icon="fab fa-github" title="Contributions welcome!" url="https://github.com/2dfs" %}}
-We do a [Pull Request](https://github.com/google/docsy-example/pulls) contributions workflow on **GitHub**. New users are always welcome!
+We do a [Pull Request](https://github.com/2dfs/2dfs-builder/pulls) contributions workflow on **GitHub**. New users are always welcome!
 {{% /blocks/feature %}}
 
 
