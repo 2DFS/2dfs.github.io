@@ -1,36 +1,14 @@
 ---
 title: Getting Started
-description: What does your user need to know to try your project?
-categories: [Examples, Placeholders]
-tags: [test, docs]
-draft: true
+description: Start using 2DFS for the first time
+categories: [2DFS, Getting Started]
+tags: [getstarted, tdfs, 2dfs]
+draft: false
 weight: 2
 ---
 
-{{% pageinfo %}}
-This is a placeholder page that shows you how to use this template site.
-{{% /pageinfo %}}
+In this Get Started guide you will learn:
 
-Information in this section helps your user try your project themselves.
-
-* What do your users need to do to start using your project? This could include downloading/installation instructions, including any prerequisites or system requirements.
-
-* Introductory “Hello World” example, if appropriate. More complex tutorials should live in the Tutorials section.
-
-Consider using the headings below for your getting started page. You can delete any that are not applicable to your project.
-
-## Prerequisites
-
-Are there any system requirements for using your project? What languages are supported (if any)? Do users need to already have any software or tools installed?
-
-## Installation
-
-Where can your user find your project code? How can they install it (binaries, installable package, build from source)? Are there multiple options/versions they can install and how should they choose the right one for them?
-
-## Setup
-
-Is there any initial setup users need to do after installation to try your project?
-
-## Try it out!
-
-Can your users test their installation, for example by running a command or deploying a Hello World example?
+- How to build your first 2DFS image. [link](./install-tdfs)
+- How to push your first 2DFS image to an `OCI+2DFS` compliant registry. [link](./install-registry)
+- How to pull your first 2DFS image partition from an `OCI+2DFS` compliant registry to Docker. [link](./retrieve-2dfs-image/)
